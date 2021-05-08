@@ -12,6 +12,6 @@ package clases;
 public class clase1 {
     String x="Kiubole raza pambolera";
     String y="hola mundo"
-        //cano wei
+        //te voy a llevar de la playa pero un vergazo en el hocico
     //este un mensjae para el pinche cano y vea como se hace
 }
