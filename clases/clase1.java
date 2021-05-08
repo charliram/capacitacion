@@ -10,7 +10,7 @@ package clases;
  * @author juanc
  */
 public class clase1 {
-    String x="Kiubole raza pambolera";
+    String x="Buenas tardes";
     String y="hola mundo"
 
 }
