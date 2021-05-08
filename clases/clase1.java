@@ -11,4 +11,5 @@ package clases;
  */
 public class clase1 {
     String x="Kiubole raza pambolera";
+    //este un mensjae para el pinche cano y vea como se hace
 }
